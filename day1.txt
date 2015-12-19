@@ -1,0 +1,61 @@
+kiss原则keep it simple，stupid 25
+尽量做过滤器26
+数据流尽量文本化
+前端和后端分明
+C编写前用解释性语言搭建原型
+宽收严发 小就是美 
+看到该做的就去做-短期看似乎是多做，但从长期看这才是最佳捷径 26
+软件设计是一门技艺，值得你付出所有的智慧创造力和激情 27
+一旦某人已经解决了某个问题，就直接拿来利用不要让骄傲或偏见拽住你有去重做一遍
+善用工具尽可能将一切都自动化
+those who cannot remember the past are condemned to repeat it-the life if reason George Santayana
+集体记忆
+ken Thompson 
+Multics
+Dennis Ritchie
+计算机不应仅被视为一种逻辑设备而更应视为社群的立足点 31
+UNICS
+uniplexed information and computing service
+让程序员直接坐在机器旁，飞快捕获稍纵即逝的灵感32
+外界的压力和纯粹出于对技艺的荣誉感，促使人们在有了更好更多的初步思路后，去重写或抛开已有的大量代码，从来没听说
+什么职业竞争和势力范围保护：好东西太多了，没有人需要把这些创新占为己有
+汇编器33
+性能的局限不仅成就了经济性，而且鼓励了设计的简约
+unix 的shell
+第一个完全意义上的unix 1979年
+lions34
+Quick and dirty operating system 36
+子目录 管道
+patch应用程序38
+将diff生成的修改记录写入基础文件的工具
+补丁-代码的渐增变化38
+GUNmanifesto
+Xwindow系统
+poxin
+PS/2 使鼠标成为标准外设
+linux项目
+黑客文化43 geek
+hacks
+arpanet
+共享文化
+jargon file 术语文件
+lisp44
+协作式开发 源码共享 45
+夏尔丹式理想主义
+技术模型铁路俱乐部 TMRC
+黑客词典
+Unix文化，ARPANET文化
+RMS RIChard M stallman
+Emacs编辑器
+通用公共许可证 GPL
+价值冲突
+自由中的自由
+X开发组
+网络改变了软件的开发模式  
+拒绝成为狂热分子 48
+Apache web服务器
+知识产权  49
+如果有足够多眼睛的关注，所有的bug都无处藏身
+用自由软件是因为它运行得更好
+大教堂 和 集市 开发模式
+
